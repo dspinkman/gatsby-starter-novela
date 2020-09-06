@@ -1,9 +1,7 @@
 backend:
-  name: github
-  repo: dspinkman/gatsby-starter-novela # Path to your GitHub repository
-
-local_backend: true # Optional if you want to use the local proxy mode
-
+  name: git-gateway
+  branch: master # Branch to update (optional; defaults to master)
+  
 publish_mode: editorial_workflow
 media_folder: media    # I'm not using these default media directories at the moment.
 public_folder: /media
