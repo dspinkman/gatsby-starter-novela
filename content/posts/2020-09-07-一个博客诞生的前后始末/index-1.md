@@ -9,7 +9,7 @@ hero: images/a-ghost-blog-was-born_-dspinkman.jpg
 ---
 *2020年5月27午时，盯着ghost后台，决定停止纠结，开始写字。*
 
-##Hello World
+## Hello World
 
 Hello World! 是不是应该先礼貌的进行自我简（shen）介（shi）。
 
@@ -17,9 +17,7 @@ Hello World! 是不是应该先礼貌的进行自我简（shen）介（shi）。
 
 2020年持续至今的疫情，打乱了人们日常奔走疲于奔命糊口的机械式运转节奏。在这段混乱而灰暗的时间里，一个年纪已然不小的大龄单身青年，除了日常例行为自己的生活和未来感到焦虑之外，也只有折腾点什么让自己专心，给自己找点新鲜的乐趣，或许比沉迷于每个赛季打上王者来的有意义一点。 想来自己也一直是3分钟热度的类型，做事情全凭一下子涌动到顶的激情，褪去之后就翻篇，这大概也是一事无成的终极原因。
 
-
-
-##blog由来     
+## blog由来     
 
 2019年的冬季，因为不可言说的需求接触了[vultr](https://www.vultr.com/)。
 
@@ -32,8 +30,6 @@ Hello World! 是不是应该先礼貌的进行自我简（shen）介（shi）。
 <img class="lazyload" src="https://cdn.jsdelivr.net/gh/dspinkman/pics@latest/2020/06/ttrss_feed.jpg" alt="ttrss_main" />
 <center style="font-size:14px;color:#C0C0C0"> 最佳搭档：ttrss自建rss订阅服务，rsshub为未提供订阅源的网站生成自定义rss订阅源 </center>
 
-<br>
-
 然后，就是博客。一选本来是typecho，因为江湖传说体积小轻量又简洁，然而翻别人的blog翻到头烂都没能搞懂怎么弄php的config；心灰之际，无意间看到1个无比贴心的[wordpress docker镜像](https://github.com/mjstealey/wordpress-nginx-docker#ssl-certs)，配有无比周到的readme，真的感人。
 
 WP主题和插件各种瞎玩了几天之后，突然觉得不是很喜欢，确实强大，但也确实为了简单好用而不得不臃肿；中间有一次把本地备份上传服务器之后docker compose重构，莫名其妙遭遇权限问题导致插件无法工作/升级，一顿搜索完了也没找到正解，总之觉得使用体验并不好，接着就换了ghost。
@@ -43,7 +39,7 @@ ghost第一印象就是后台简约又好看，瞬间被颜值拉了好感。也
 <img class="lazyload" src="https://cdn.jsdelivr.net/gh/dspinkman/pics@latest/2020/06/ghost blog_admin.jpg" alt="ghost_admin" />
 <center style="font-size:14px;color:#C0C0C0"> ghost后台的简约风格 </center>
 
-##一点感想
+## 一点感想
 
 一届文科生现在知道了linux有很多版本，知道了怎么SSH到自己的主机，知道了买域名、dns与cloudflare，知道了https与nginx，知道了docker是个好东西等等等等；总之一些折腾相关的皮毛杂耍。
 
