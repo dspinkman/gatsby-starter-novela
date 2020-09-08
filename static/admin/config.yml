@@ -1,6 +1,6 @@
 backend:
   name: github
-  branch: master # Branch to update (optional; defaults to master)
+  repo: dspinkman/gatsby-starter-novela
   
 publish_mode: editorial_workflow
 media_folder: media    # I'm not using these default media directories at the moment.
