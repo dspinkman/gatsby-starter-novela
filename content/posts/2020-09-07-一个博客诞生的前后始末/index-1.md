@@ -32,7 +32,6 @@ Hello World! 是不是应该先礼貌的进行自我简（shen）介（shi）。
 <img class="lazyload" src="https://cdn.jsdelivr.net/gh/dspinkman/pics@latest/2020/06/ttrss_feed.jpg" alt="ttrss_main" />
 <center style="font-size:14px;color:#C0C0C0"> 最佳搭档：ttrss自建rss订阅服务，rsshub为未提供订阅源的网站生成自定义rss订阅源 </center>
 
-<br>
 
 然后，就是博客。一选本来是typecho，因为江湖传说体积小轻量又简洁，然而翻别人的blog翻到头烂都没能搞懂怎么弄php的config；心灰之际，无意间看到1个无比贴心的[wordpress docker镜像](https://github.com/mjstealey/wordpress-nginx-docker#ssl-certs)，配有无比周到的readme，真的感人。
 
